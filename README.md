@@ -1,10 +1,9 @@
 # 基于SSM的宿舍管理系统
-
 ## 获取方式
 
-扫描下方，回复关键词  ：**宿舍2** ，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**宿舍**，查看导入教程视频、sql脚本和源码等
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -35,36 +34,27 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207302011691.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202207302011691.jpg)
 
 ### 4.2 管理员模块
 
-![管理员-离校管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207302012760.jpg)
+![管理员-离校管理](https://www.codeshop.fun/Typora-Images/202207302012760.jpg)
 
-![管理员-管理员信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207302012309.jpg)
+![管理员-管理员信息管理](https://www.codeshop.fun/Typora-Images/202207302012309.jpg)
 
-![管理员-卫生管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207302012309.jpg)
+![管理员-卫生管理](https://www.codeshop.fun/Typora-Images/202207302012309.jpg)
 
-![管理员-学生管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207302013415.jpg)
+![管理员-学生管理](https://www.codeshop.fun/Typora-Images/202207302013415.jpg)
 
 ### 4.2 宿管模块
 
-![宿管-首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207302013361.jpg)
+![宿管-首页](https://www.codeshop.fun/Typora-Images/202207302013361.jpg)
 
-![宿管-维修管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207302013794.jpg)
+![宿管-维修管理](https://www.codeshop.fun/Typora-Images/202207302013794.jpg)
 
-![宿管-晚归管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207302013700.jpg)
+![宿管-晚归管理](https://www.codeshop.fun/Typora-Images/202207302013700.jpg)
 
-![宿管-访客管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207302013656.jpg)
+![宿管-访客管理](https://www.codeshop.fun/Typora-Images/202207302013656.jpg)
 
-![](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207302013451.jpeg)
-
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**宿舍2**  ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![](https://www.codeshop.fun/Typora-Images/202207302013451.jpeg)
 
